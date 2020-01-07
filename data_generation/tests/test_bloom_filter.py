@@ -1,7 +1,7 @@
 import sys
 sys.path.append('../')
 
-from ust import BloomFilter, DiskBloomFilter
+from data_generation.ust import BloomFilter, DiskBloomFilter
 import pytest
 import string
 import random

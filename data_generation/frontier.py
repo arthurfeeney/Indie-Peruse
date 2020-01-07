@@ -6,7 +6,7 @@ urls to pages that have been seen, but not downloaded yet.
 import heapq
 import queue
 import queuelib
-import bandcamp.url_util as uu
+import data_generation.url_util as uu
 import time
 
 

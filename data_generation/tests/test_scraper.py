@@ -1,4 +1,4 @@
-from scraper import BandcampPageScraper
+from data_generation.scraper import BandcampPageScraper
 
 
 def test_init():

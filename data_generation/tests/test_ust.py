@@ -1,7 +1,7 @@
 import sys
 sys.path.append('../')
 
-from ust import SetUST
+from data_generation.ust import SetUST
 
 
 def test_set_ust():

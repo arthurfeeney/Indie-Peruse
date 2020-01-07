@@ -1,7 +1,7 @@
 import sys
 sys.path.append('../')
 
-from frontier import *
+from data_generation.frontier import *
 
 
 def test_fifo_frontier():
